@@ -1,0 +1,3 @@
+ikarus-getaddrinfo.o: ikarus-getaddrinfo.c ../config.h
+
+../config.h:
